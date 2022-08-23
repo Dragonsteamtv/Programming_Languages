@@ -281,18 +281,22 @@ namespace Tutorial
             //      }
             // }
 
-            Book book1 = new Book();
+            Book book1 = new Book("Mike") // Linked to Book Method in book.cs; "" Passes Parameters into constructor 
             book1.title = "Harry Potter";
             book1.author = "JK Rowling";
 
-            book1.ReadBook();
+            book1.readBook();
             Console.WriteLine(book1.title);
 
-            Book book2 = new Book();
+            Book book2 = new Book("John");
             book2.title = "Lord of the Rings";
             book2.author = "JRR Tolkien";
 
-            book2.ReadBook();
+            // --> Obtimiced for constructor
+            Book book3 = new Book("Mandelbrot Set", "Mandelbrot", 1200);
+            Console.WriteLine(book3.title);
+
+            book2.readBook();
             Console.WriteLine(book2.title);
             Console.WriteLine(Book.staticAttribute);
         }
@@ -303,7 +307,6 @@ namespace Tutorial
 
 
            // C O N S T R U C T O R S
-            /*
             public class Book{
                  public String title;
                  public String author;

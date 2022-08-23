@@ -1,0 +1,2 @@
+D:\04_Programming\Programming_Languages\C-sharp\Tutorial\Tutorial\obj\Debug\Tutorial.csproj.AssemblyReference.cache
+D:\04_Programming\Programming_Languages\C-sharp\Tutorial\Tutorial\obj\Debug\Tutorial.csproj.CoreCompileInputs.cache
