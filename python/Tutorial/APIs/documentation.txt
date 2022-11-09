@@ -1,0 +1,19 @@
+API:
+    stands for Aplication porgramming interface
+
+Interfaces:
+all interfaces define a way to interact with objects (physical or digital)
+interfaces extract away the implimentation
+    gui:
+    for the user
+    api:
+    used for the aplication programmer
+
+defining API:
+APIs are a form of precoded interactions. so you dont have to do everything yourself.
+APIs are everywhere.
+just a simple .upper is an API so you dont have to
+programm that from scratch
+this is because its a common issue dev run in to.
+
+remote APIs:
