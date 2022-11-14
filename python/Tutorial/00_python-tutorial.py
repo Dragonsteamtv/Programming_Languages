@@ -161,7 +161,7 @@ def sayhi(name, age):
     print("Hello " + name + ", you are " + age)
 
 sayhi("Mike", "63")
-s
+
 #return statements ///////////
 #used to get information back from a function
 
