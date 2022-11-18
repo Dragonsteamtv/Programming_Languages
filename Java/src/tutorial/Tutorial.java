@@ -30,9 +30,7 @@ public class Tutorial{
 		System.out.println(string + " :) ");
 		System.out.println(easier);
 		static String hello = "Hello"
-		
-		
-		
+	
 		
 		/////////////////////	 BASICS 	/////////////////////////////
 		
