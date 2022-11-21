@@ -1,7 +1,7 @@
 Here is the documentation for the first category on PicoCTF called:
 ** GENERAL SKILLS **
 
-/// CTF 1: Obedient Cat
+/// CTF: Obedient Cat
 Description
 This file has a flag in plain sight (aka "in-the-clear"). https://mercury.picoctf.net/static/0e428b2db9788d31189329bed089ce98/flag
 
@@ -15,7 +15,7 @@ Solution: picoCTF{s4n1ty_v3r1f13d_2fd6ed29}
 Conclusion: 
 Hints Needed: 0 | Personal diffculty: 1/10 |
 
-/// CTF 2: Python Wrangling
+/// CTF: Python Wrangling
 Description
 Python scripts are invoked kind of like programs in the Terminal... 
 Can you run this Python script{https://mercury.picoctf.net/static/325a52d249be0bd3811421eacd2c877a/ende.py} 
@@ -37,7 +37,7 @@ picoCTF{4p0110_1n_7h3_h0us3_ac9bd0ff}
 Conclusion: 
 Hints Needed: 0 | Personal diffculty: 1/10 | 
 
-/// CTF 3: Wave a flag
+/// CTF: Wave a flag
 Description
 Can you invoke help flags for a tool or binary? 
 This program has extraordinarily helpful information... {https://mercury.picoctf.net/static/f95b1ee9f29d631d99073e34703a2826/warm}
@@ -57,7 +57,7 @@ picoCTF{b1scu1ts_4nd_gr4vy_f0668f62}
 Conclusion: 
 Hints Needed: 0 | Personal diffculty: 1/10 | needed minimal research
 
-/// CTF 4: Nice netcat...
+/// CTF: Nice netcat...
 Description
 There is a nice program that you can talk to by using this command in a shell:
 $ nc mercury.picoctf.net 21135, but it doesn't speak English...
@@ -79,7 +79,7 @@ Hints Needed: 0 | Personal diffculty: 1/10 |
 Comment:
 For this i had to think a little bit what these numbers where. But I soon got it.
 
-/// CTF 5: Static ain't always noise
+/// CTF: Static ain't always noise
 Description
 Can you look at the data in this binary: static{https://mercury.picoctf.net/static/0f6ea599582dcce7b4f1ba94e3617baf/static}? 
 This BASH script{https://mercury.picoctf.net/static/0f6ea599582dcce7b4f1ba94e3617baf/ltdis.sh} might help!
@@ -99,7 +99,7 @@ picoCTF{d15a5m_t34s3r_6f8c8200}
 Conclusion: 
 Hints Needed: 0 | Personal diffculty: 1/10 | 
 
-/// CTF 6: Tab, Tab, Attack
+/// CTF: Tab, Tab, Attack
 Using tabcomplete in the Terminal will add years to your life, esp. 
 when dealing with long rambling directory structures and filenames: Addadshashanammu.zip {https://mercury.picoctf.net/static/9689f2b453ad5daeb73ca7534e4d1521/Addadshashanammu.zip}
 
@@ -117,7 +117,7 @@ picoCTF{l3v3l_up!_t4k3_4_r35t!_2bcfb2ab}
 Conclusion: 
 Hints Needed: 0 | Personal diffculty: 1/10 | 
 
-/// CTF 7: Magikarp Ground Mission
+/// CTF: Magikarp Ground Mission
 Description
 Do you know how to move between directories and read files in the shell? Start the container, 
 `ssh` to it, and then `ls` once connected to begin.
@@ -129,12 +129,12 @@ picoCTF{xxsh_0ut_0f_\/\/4t3r_71be5264}
 Conclusion: 
 Hints Needed: 0 | Personal diffculty: 1/10 | 
 
-///CTF 8: Lets Warm Up
+///CTF: Lets Warm Up
 Description
 If I told you a word started with 0x70 in hexadecimal,
 what would it start with in ASCII?
 
-///CTF 11: what's a net cat? 
+///CTF: what's a net cat? 
 Description
 Using netcat (nc) is going to be pretty important.
 Can you connect to jupiter.challenges.picoctf.org at port 64287 to get the flag?
@@ -147,7 +147,7 @@ picoCTF{nEtCat_Mast3ry_284be8f7}
 Conclusion: 
 Hints Needed: 0 | Personal diffculty: 1/10 | 
 
-///CTF 12: strings it
+///CTF: strings it
 Description
 Can you find the flag in file{https://jupiter.challenges.picoctf.org/static/5bd86036f013ac3b9c958499adf3e2e2/strings} without running it?
 
@@ -161,7 +161,7 @@ picoCTF{5tRIng5_1T_827aee91}
 Conclusion: 
 Hints Needed: 0 | Personal diffculty: 1/10 | 
 
-///CTF 14: First Grep
+///CTF: First Grep
 Description
 Can you find the flag in file{https://jupiter.challenges.picoctf.org/static/495d43ee4a2b9f345a4307d053b4d88d/file}? 
 This would be really tedious to look through manually, something tells me there is a better way.
@@ -178,7 +178,7 @@ Hints Needed: 0 | Personal diffculty: 1/10 |
 
 \\\\///CTF
 
-///CTF :PW Crack 4
+///CTF:PW Crack 4
 Description
 Can you crack the password to get the flag?
 Download the password checker here{https://artifacts.picoctf.net/c/60/level4.py} 
@@ -348,5 +348,3 @@ picoCTF{rrrocknrn0113r}
 
 Conclusion: 
 Hints Needed: 0 | Personal diffculty: 1/10 | Already knew about the Art of Code Presentation
-
-///CTF:  
