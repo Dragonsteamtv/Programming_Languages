@@ -99,4 +99,34 @@ picoCTF{d15a5m_t34s3r_6f8c8200}
 Conclusion: 
 Hints Needed: 0 | Personal diffculty: 1/10 | 
 
+/// CTF 6: Tab, Tab, Attack
+Using tabcomplete in the Terminal will add years to your life, esp. 
+when dealing with long rambling directory structures and filenames: Addadshashanammu.zip {https://mercury.picoctf.net/static/9689f2b453ad5daeb73ca7534e4d1521/Addadshashanammu.zip}
 
+Step 1: Step 1: Download or import into Browser Shell using: wget {url}
+
+Step 2: unzip {url} to unzip the file
+
+Step 3: cd into the last directory
+
+Step 4: run strings fang-of-haynekhtnamet to extract the key in the strings of the file
+
+Solution: 
+picoCTF{l3v3l_up!_t4k3_4_r35t!_2bcfb2ab}
+
+Conclusion: 
+Hints Needed: 0 | Personal diffculty: 1/10 | 
+
+/// CTF 7: Magikarp Ground Mission
+Description
+Do you know how to move between directories and read files in the shell? Start the container, 
+`ssh` to it, and then `ls` once connected to begin.
+Login via `ssh` as `ctf-player` with the password, `a13b7f9d`
+
+Solution:
+picoCTF{xxsh_0ut_0f_\/\/4t3r_71be5264}
+
+///CTF 8: Lets Warm Up
+Description
+If I told you a word started with 0x70 in hexadecimal,
+what would it start with in ASCII?
